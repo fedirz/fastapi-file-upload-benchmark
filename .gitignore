@@ -1,0 +1,7 @@
+.direnv
+.venv
+__pycache__
+test_files
+uploads
+scratchpad.md
+benchmark_results.json
